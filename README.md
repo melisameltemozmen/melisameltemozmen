@@ -1,7 +1,13 @@
 <h1 align="center">Hi there!, I'm Melisa Meltem👋</h1>
 <h3 align="center">Aspiring Data Scientist | 3rd Year Statistics Student </h3>
 
-- 📫 How to reach me **melisameltemozmen@gmail.com**
+<p align="center">
+  I am an undergraduate student specializing in <b>Statistics</b> at Dokuz Eylül University and <b>Computer Programming</b> at Istanbul University. I focus on statistical modeling, data science projects, and <b>machine learning</b>.
+</p>
+
+<hr>
+
+- 📫 How to reach me: **melisameltemozmen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
