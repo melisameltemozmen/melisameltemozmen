@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋, I'm Melisa Meltem</h1>
-<h3 align="center">Data Scientist and 3rd-Year Statistics Student</h3>
+<h1 align="center">Hi there!, I'm Melisa Meltem👋</h1>
+<h3 align="center">Aspiring Data Scientist | 3rd Year Statistics Student </h3>
 
 - 📫 How to reach me **melisameltemozmen@gmail.com**
 
